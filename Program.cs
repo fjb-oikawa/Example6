@@ -12,9 +12,9 @@ namespace Example6
         {
             int score;
             double pai;
-            String name;
+            string name;
 
-            score = 25;
+            score = (int)0.5;
             pai = 3.1415;
             name = "TARO";
 
